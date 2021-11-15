@@ -1,7 +1,7 @@
 provider "aws" {
   region     = "ap-south-1"
-  access_key = "AKIA52Z6FE4I4BIVZMJ3"
-  secret_key = "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"
+  access_key = "XXX"
+  secret_key = "YYY+eh7x"
 }
 
 #### this portion is used for the creation of the aws instance with a tag hello world and malik is the name given by you for the identification of the resource#######
